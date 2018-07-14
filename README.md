@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 13th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Tyler Webb
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we build an app that allows users to navigate via scrolling arrows a gallery of images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://twebb95.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To access elements by id, tag name, class, name or selector
+2. To access element content, CSS properties, and attributes
+3. To add and remove document nodes
